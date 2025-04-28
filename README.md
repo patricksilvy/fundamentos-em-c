@@ -9,6 +9,7 @@ Cada exercício foi estruturado para atender a um determinado requisito. O códi
 
 A estrutura do projeto é organizada da seguinte maneira:
 
+```
 ├── codes # Código-fonte das atividades 
 │ ├── atividade1.c # Exercício 1 
 │ ├── atividade2.c # Exercício 2 
@@ -27,6 +28,7 @@ A estrutura do projeto é organizada da seguinte maneira:
 ├── controller.exe # Executável do controlador 
 ├── .gitignore # Arquivo para ignorar arquivos desnecessários no Git 
 └── README.md # Este arquivo de documentação
+```
 
 ## Pré-requisitos
 
